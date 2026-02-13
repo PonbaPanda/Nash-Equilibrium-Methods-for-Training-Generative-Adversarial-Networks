@@ -1,0 +1,3 @@
+This presentation introduces how game theory is used to design Generative Adversarial Networks (GANs) and addresses the problem of mode collapse. We then explore the work done in GANGs: Generative Adversarial Network Games by Frans A. Oliehoek, Rahul Savani,Jose Gallego-Posada, Elise van der Pol, Edwin D. de Jong and Roderich Groß, where they use mixed strategies to overcome the problem of mode collapse, and also give advancements in Parallel Nash Memory to formulate this game in the presence of real contraints like computation.
+
+This was presented as part of the final project of EE6418 - Game Theory with Engineering Applications by Prof. Puduru Viswanath at IIT Madras
